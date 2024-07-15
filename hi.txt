@@ -4,4 +4,4 @@ python
 c
 html
 css
-oracle
+oracla
