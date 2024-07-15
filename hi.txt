@@ -1,0 +1,7 @@
+my sql
+java
+python
+c
+html
+css
+oracle
